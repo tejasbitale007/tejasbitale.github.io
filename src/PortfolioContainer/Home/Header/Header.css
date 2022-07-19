@@ -1,0 +1,66 @@
+.Header-container{
+    display: flex;
+    padding-left: 40rem;
+    padding-top:2rem ;
+}
+.Header-home a{
+    text-decoration: none;
+    color:white;
+    font-size: 1.5rem;
+    -webkit-transition: color 1s;
+    transition: color 1s;
+}
+.Header-home a:hover{
+    color: var(--dark-orange);
+}
+.Header-About a{
+    text-decoration: none;
+    color: white;
+    padding-left: 2rem;
+    font-size: 1.5rem;
+    -webkit-transition: color 1s;
+    transition: color 1s;
+}
+.Header-About a:hover{
+    color: var(--dark-orange);
+}
+.Header-Contact-us a{
+    text-decoration: none;
+    color:white;
+    padding-left: 2rem;
+    font-size: 1.5rem;
+    -webkit-transition: color 1s;
+    transition: color 1s;
+}
+.Header-Contact-us a:hover{
+    color: var(--dark-orange);
+}
+.Header-Resume a{
+    text-decoration: none;
+    color:white;
+    padding-left: 2rem;
+    font-size: 1.5rem;
+
+}
+.hamburger-menu{
+    display: block;
+    font-size: 2.5rem;
+}
+@media screen and(max-width:1110px){
+    .Header-container{
+        display: flex;
+        text-align: left;
+
+    }
+    .hamburger-menu{
+        display: none;
+    }
+}
+@media screen and(max-width:480px){
+    .Header-container{
+        display: none;
+        
+    }
+    
+}
+

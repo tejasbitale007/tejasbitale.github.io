@@ -1,0 +1,144 @@
+.c{
+    height: 100vh;
+}
+.c-bg{
+    /* width: 20px; */
+    text-align: center;
+    align-items: center;
+    
+    height: 100%;
+    background-color: slategrey;
+    padding-top: 10rem;
+    
+}
+.c-wrapper{
+    padding-left: 30rem;
+    padding-top: 12px;
+ 
+}
+.c-contact{
+    border: 2px solid black;
+    width: 50%;
+    height: 30rem;
+}
+.c-form{
+    padding-top: 48px;
+    background-color: whitesmoke;
+    
+}
+.c-form-i{
+    margin: 12px;
+}
+.i1 {
+    margin: 12px;
+   border-radius: 4px;
+   width: 50%;
+   height: 50%;
+}
+.i2 {
+    margin: 12px;
+    border-radius: 4px;
+    width: 50%;
+    height: 50%;
+}
+.i3 {
+    margin: 12px;
+    border-radius: 4px;
+    width: 50%;
+    height: 50%;
+}
+textarea{
+    width: 50%;
+}
+@media screen and (max-width:480px) {
+    .c-wrapper {
+        flex-direction: column;
+        padding: 0px 50px;
+        
+      }
+    
+      .c--form-h1 {
+        font-size: 30px;
+      }
+    
+      .c-info-item{
+        margin: 50px 0px;
+        width: 100%;
+      }
+     
+      
+      
+    
+      .c-form {
+        width: 13rem;
+      }
+    
+      .i1 {
+        width: 35%;
+        height: 40px;
+        margin: 10px;
+        margin-left: 0px;
+      }
+      .i2 {
+        width: 35%;
+        height: 40px;
+        margin: 10px;
+        margin-left: 0;
+      }
+      .i3 {
+        width: 35%;
+        height: 40px;
+        margin: 10px;
+        margin-left: 0;
+      }
+    
+      button {
+        margin-top: 10px;
+      }
+}
+@media screen and (max-width:850px) {
+    .c-wrapper {
+        flex-direction: column;
+        padding: 0px 50px;
+        padding-left: 5rem;
+      }
+    
+      .c--form-h1 {
+        font-size: 30px;
+      }
+    
+      .c-info-item{
+        margin: 50px 0px;
+        width: 100%;
+      }
+     
+      
+      
+    
+      .c-form {
+        width: 22rem;
+      }
+    
+      .i1 {
+        width: 35%;
+        height: 40px;
+        margin: 10px;
+        margin-left: 0px;
+      }
+      .i2 {
+        width: 35%;
+        height: 40px;
+        margin: 10px;
+        margin-left: 0;
+      }
+      .i3 {
+        width: 35%;
+        height: 40px;
+        margin: 10px;
+        margin-left: 0;
+      }
+    
+      button {
+        margin-top: 10px;
+      }
+}
