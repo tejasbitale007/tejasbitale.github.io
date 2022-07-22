@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/tejasbitale.github.io/static/css/main.ba51a190.css",
+    "main.js": "/tejasbitale.github.io/static/js/main.4349dc0e.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/tejasbitale.github.io/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/tejas.jpg": "/tejasbitale.github.io/static/media/tejas.7f7ec00bb969a5d88ee0.jpg",
+    "static/media/bg.jpg": "/tejasbitale.github.io/static/media/bg.d580cd375921d13ae60d.jpg",
+    "index.html": "/tejasbitale.github.io/index.html",
+    "main.ba51a190.css.map": "/tejasbitale.github.io/static/css/main.ba51a190.css.map",
+    "main.4349dc0e.js.map": "/tejasbitale.github.io/static/js/main.4349dc0e.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/tejasbitale.github.io/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba51a190.css",
+    "static/js/main.4349dc0e.js"
+  ]
+}
